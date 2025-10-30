@@ -14,10 +14,18 @@ Power Query – data cleaning and transformation
 DAX – creating calculated columns and measures (e.g., Total Revenue, Avg Rating)
 
 📊 Key KPIs
+<br>
 Total Revenue
+<br>
 Total Enrollments
+<br>
 Average Rating
+<br>
 Revenue by Category
+<br>
+Top 10 Instructors
+<br>
+Monthly Revenue Trend
 
 🔍 Insights
 Business and Technology courses generated the highest revenue.
@@ -38,6 +46,4 @@ Author
 Shalini
 e-mail=shalinirawat01751@gmail.com
 
-Top 10 Instructors
 
-Monthly Revenue Trend
